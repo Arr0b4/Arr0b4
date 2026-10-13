@@ -10,3 +10,9 @@
 
   <br>
 
+  
+<div align="center">
+  <img src="./assets/cenfa_libro-removebg-preview.png" width="100%" alt="Separador gótico" />
+</div>
+
+
